@@ -1,0 +1,58 @@
+[
+    {
+        "country" : "nepal",
+        "countryCode" : "NP",
+        "TotalCases" : 45872,
+        "TotalDeaths" : 257,
+        "TotalRecovered" : 14789,
+        "NewCases" : 4455,
+        "NewDeaths" : 123,
+        "states" : [
+            "kathmandu", "pokhara", "Gorkha", "chitawan", "narayanghat", "hetauda", 
+            {
+                "status" : true,
+                "faloming" : false,
+                "img" : [
+                    {
+                        "src" : "images/corona.jpg",
+                        "dist" : "C:\n",
+                        "faility" : [
+                            "pakauda", "aanda", "chana", "khana", "patali", 
+                            {
+                                "LOdege_or_Hotel" : "kathmanddes fast food limited."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "country": "india",
+        "countryCode": "IN",
+        "TotalCases": 4574564,
+        "TotalDeaths": 44444,
+        "TotalRecovered": 45257,
+        "NewCases": 424442,
+        "NewDeaths": 1477
+    },
+    {
+        "country": "china",
+        "countryCode": "CH",
+        "TotalCases": 890000,
+        "TotalDeaths": 15884,
+        "TotalRecovered": 4500,
+        "NewCases": 2211,
+        "NewDeaths": 478
+    },
+    {
+        "country": "Bhutan",
+        "countryCode": "BH",
+        "TotalCases": 54878,
+        "TotalDeaths": 12124,
+        "TotalRecovered": 254,
+        "NewCases": 247,
+        "NewDeaths": 16879
+    }
+]
+
